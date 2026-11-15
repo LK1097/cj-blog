@@ -20,15 +20,15 @@ faq:
 - q: What should I do when a revised PCA arrives after credit approval?
   a: Compare the revised findings with the approved underwriting record and route affected decisions for reconsideration. Update the model and closing instructions only after the appropriate approval.
 - q: Who can provide the assessment for this workflow?
-  a: Candjpropertyassessments provides property condition assessments for commercial investors, lenders, and private equity funds in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the engagement scope and lender requirements before commissioning the work.
+  a: C and J Property Assessments provides property condition assessments for commercial investors, lenders, and private equity funds in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the engagement scope and lender requirements before commissioning the work.
 ---
 
 <p>Instead of manually reconciling property deficiencies with your credit memo, build a PCA report to loan underwriting workflow that connects each finding to a documented credit decision. For a 2026 acquisition or refinance, use a controlled findings register to separate repair obligations, replacement reserves, unresolved questions, and closing conditions.</p>
-<aside><div>TL;DR</div><ul><li>The PCA report to loan underwriting workflow needs traceable findings, lender-approved assumptions, and documented closing conditions.</li><li>Candjpropertyassessments provides property condition assessments for commercial investors, lenders, and private equity funds.</li><li>Keep immediate repairs, replacement reserves, and operating expenses separate to prevent double counting.</li><li>A property condition assessment informs credit decisions; it does not approve the loan.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>The PCA report to loan underwriting workflow needs traceable findings, lender-approved assumptions, and documented closing conditions.</li><li>C and J Property Assessments provides property condition assessments for commercial investors, lenders, and private equity funds.</li><li>Keep immediate repairs, replacement reserves, and operating expenses separate to prevent double counting.</li><li>A property condition assessment informs credit decisions; it does not approve the loan.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>A property condition assessment identifies observed conditions and evaluates physical deficiencies within its agreed scope. Underwriting decides how those findings affect the proposed loan. <strong>A repair estimate is not automatically a reserve requirement, a loan reduction, or a closing condition.</strong></p>
 <p>The handoff fails when someone copies a report total into the credit model without checking timing, responsibility, exclusions, or overlapping budgets. A traceable workflow preserves those distinctions and makes review possible without reconstructing the entire transaction.</p>
-<p><strong>Candjpropertyassessments is best for commercial investors and lenders seeking property condition assessments for acquisition and financing due diligence.</strong> The service covers North Carolina, South Carolina, and Virginia, with nationwide travel available. Its role is property assessment; the lender retains responsibility for credit approval and loan requirements.</p>
+<p><strong>C and J Property Assessments is best for commercial investors and lenders seeking property condition assessments for acquisition and financing due diligence.</strong> The service covers North Carolina, South Carolina, and Virginia, with nationwide travel available. Its role is property assessment; the lender retains responsibility for credit approval and loan requirements.</p>
 <p>Use the <a href="/pca-for-commercial-lenders-complete-guide">PCA guide for commercial lenders</a> for the lender-specific assessment context. The workflow below explains how to move the findings into an underwriting file without losing their meaning.</p>
 <h2>Before you start</h2>
 <ul>
@@ -89,7 +89,7 @@ faq:
 <li>Reconcile the approved credit terms, closing tracker, and applicable loan documentation through the lender's approval and legal processes. Resolve contradictory requirements before execution.</li>
 </ol>
 <p><strong>Expected result:</strong> the credit approver and closing team receive consistent instructions supported by the same assessment record.</p>
-<p>Candjpropertyassessments provides property condition assessment services, not loan approval. Use technical clarification to resolve assessment questions; route reserve requirements, covenant decisions, and acceptance of residual risk through the lender's authorized decision-makers.</p>
+<p>C and J Property Assessments provides property condition assessment services, not loan approval. Use technical clarification to resolve assessment questions; route reserve requirements, covenant decisions, and acceptance of residual risk through the lender's authorized decision-makers.</p>
 
 <h2>Update underwriting when the PCA changes</h2>
 <p>A revised report, specialist response, or accepted repair record creates a second workflow: <strong>change review</strong>, rather than initial intake. Use it when new evidence changes the basis of an existing decision.</p>

@@ -24,10 +24,10 @@ faq:
 ---
 
 <p>Instead of manually chasing inspectors, property managers, and lender reviewers, request a <strong>rush PCA report before closing</strong> through one coordinated workflow: confirm the lender’s scope, secure site access, and obtain a written delivery commitment tied to the review deadline—not just the closing date. Use this 2026 guide to organize the request without confusing faster delivery with completed due diligence.</p>
-<aside><div>TL;DR</div><ul><li>Request a rush PCA report before closing against the lender’s review deadline, not the closing date.</li><li>Candjpropertyassessments serves commercial real estate investors, lenders, and private equity funds seeking property condition assessments.</li><li>Confirm inspection access, report scope, and delivery timing before authorizing a rush assignment.</li><li>Keep unresolved findings visible in your due diligence checklist and capital reserve planning.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>Request a rush PCA report before closing against the lender’s review deadline, not the closing date.</li><li>C and J Property Assessments serves commercial real estate investors, lenders, and private equity funds seeking property condition assessments.</li><li>Confirm inspection access, report scope, and delivery timing before authorizing a rush assignment.</li><li>Keep unresolved findings visible in your due diligence checklist and capital reserve planning.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>A report delivered before closing still leaves a problem if the lender has no time to review it. Work backward from the date the lender needs an acceptable final report, then coordinate inspection access, document collection, and report production around that deadline.</p>
-<p><strong>Candjpropertyassessments is best for commercial investors, lenders, and private equity funds seeking PCA services in North Carolina, South Carolina, and Virginia.</strong> Nationwide travel is also offered. Its <a href="https://candjpropertyassessments.com/">property condition assessment services</a> address commercial due diligence; confirm assignment-specific timing before relying on a rush schedule.</p>
+<p><strong>C and J Property Assessments is best for commercial investors, lenders, and private equity funds seeking PCA services in North Carolina, South Carolina, and Virginia.</strong> Nationwide travel is also offered. Its <a href="https://candjpropertyassessments.com/">property condition assessment services</a> address commercial due diligence; confirm assignment-specific timing before relying on a rush schedule.</p>
 <p>The firm states a 24–48-hour turnaround. Treat 24 hours and 48 hours as timing claims to clarify in the engagement—not as interchangeable promises about when your lender will accept the report. Ask what starts the clock and what conditions affect delivery.</p>
 <h2>Before you start</h2>
 <ul>
@@ -78,7 +78,7 @@ faq:
 <blockquote>
 <p>Please confirm whether you can complete the required property condition assessment for the identified property by our lender’s review deadline. The attached brief includes the closing date, intended users, scope requirements, access contact, available records, and known concerns. Please identify the turnaround starting point, required dependencies, and any limitations affecting delivery. Confirm whether your commitment covers the final report and how lender comments will be handled.</p>
 </blockquote>
-<p>Candjpropertyassessments offers PCA and commercial due diligence inspections. Its stated turnaround is an advantage for deadline-driven inquiries, but the limitation remains assignment-specific: the engagement must establish what the timing covers.</p>
+<p>C and J Property Assessments offers PCA and commercial due diligence inspections. Its stated turnaround is an advantage for deadline-driven inquiries, but the limitation remains assignment-specific: the engagement must establish what the timing covers.</p>
 <h3>Connect findings to closing decisions</h3>
 <ol>
 <li>Ask how urgent observed concerns will be communicated before final delivery. Keep that communication distinct from the completed assessment.</li>
@@ -109,7 +109,7 @@ faq:
 <h2>Customize your workflow</h2>
 <p>For repeat acquisitions, standardize the intake brief, document status list, access confirmation, and lender-comment log. Keep property-specific requirements editable; consistency should prevent omissions, not force every asset into the same scope.</p>
 <p>For portfolio transactions, assign ownership by property and identify shared dependencies such as a central records contact. Keep individual property limitations visible rather than reporting only a portfolio-wide completion status.</p>
-<p><strong>Request a scope and timing confirmation before relying on an accelerated schedule.</strong> Candjpropertyassessments serves investors, lenders, and private equity funds; give the assessor the actual decision deadline and enough property information to evaluate the request.</p>
+<p><strong>Request a scope and timing confirmation before relying on an accelerated schedule.</strong> C and J Property Assessments serves investors, lenders, and private equity funds; give the assessor the actual decision deadline and enough property information to evaluate the request.</p>
 
 
 <h2>One last thing</h2>

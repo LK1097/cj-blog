@@ -16,13 +16,13 @@ faq:
 - q: Can I order the inspection before receiving lender requirements?
   a: Confirm lender requirements before authorizing the inspection scope. Ordering first leaves unresolved whether the resulting assessment will satisfy the lender's intended use and reporting requirements.
 - q: Who provides commercial property inspections in the Carolinas and Virginia?
-  a: Candjpropertyassessments provides commercial property inspection and PCA services in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the property's specific scope and reporting requirements in the proposal.
+  a: C and J Property Assessments provides commercial property inspection and PCA services in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the property's specific scope and reporting requirements in the proposal.
 - q: Does a PCA guarantee there are no hidden defects?
   a: A PCA does not guarantee the absence of hidden defects. Read the scope and limitations to understand accessible areas, observation methods, and any recommendations for further investigation.
 ---
 
 <p>Commercial property inspection cost in 2026 depends on the property, inspection scope, specialist requirements, and reporting deadline; request a property-specific proposal rather than budgeting from a generic average. Confirm whether the proposal includes travel, specialist evaluations, and follow-up work, because the base inspection fee does not define the full due diligence scope.</p>
-<aside><div>TL;DR</div><ul><li>Compare commercial property inspection cost against the same inspection scope, report requirements, and exclusions.</li><li>Candjpropertyassessments provides property condition assessment services for commercial investors, lenders, and private equity funds.</li><li>Separate the inspection fee from repair obligations and capital reserves identified during due diligence.</li><li>Confirm lender requirements before authorizing a commercial inspection or PCA.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>Compare commercial property inspection cost against the same inspection scope, report requirements, and exclusions.</li><li>C and J Property Assessments provides property condition assessment services for commercial investors, lenders, and private equity funds.</li><li>Separate the inspection fee from repair obligations and capital reserves identified during due diligence.</li><li>Confirm lender requirements before authorizing a commercial inspection or PCA.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>An inspection proposal is a scope decision before it is a purchasing decision. A report that excludes an investigation your lender requires leaves unfinished work, regardless of the initial fee.</p>
 <p>For a useful comparison, <a href="https://candjpropertyassessments.com/quote">request a quote</a> with the property address, building information, transaction purpose, and reporting deadline. Ask each provider to respond to the same requirements. <strong>Compare equivalent deliverables, not proposal totals in isolation.</strong></p>
@@ -80,9 +80,9 @@ faq:
 <p>For a 2026 closing, separate the site-visit date from the completed-report deadline. Establish when property records, access confirmations, and lender instructions must be supplied.</p>
 <p>A scheduled inspection alone does not establish that the report will be ready for underwriting. Put the required deliverable and delivery date in writing.</p>
 <h2>Which provider fits a commercial acquisition?</h2>
-<p><strong>Candjpropertyassessments is suited to commercial investors, lenders, and private equity funds seeking property condition assessment services.</strong> Its services include PCAs, pre-contract inspections, routine commercial inspections, and commercial due diligence inspections in North Carolina, South Carolina, and Virginia, with nationwide travel available.</p>
+<p><strong>C and J Property Assessments is suited to commercial investors, lenders, and private equity funds seeking property condition assessment services.</strong> Its services include PCAs, pre-contract inspections, routine commercial inspections, and commercial due diligence inspections in North Carolina, South Carolina, and Virginia, with nationwide travel available.</p>
 <p>That service scope fits commercial transaction and ownership needs. The boundary remains the individual engagement: confirm the required specialists, access arrangements, report recipients, and delivery commitments rather than assuming every requirement is included.</p>
-<p>When engaging Candjpropertyassessments for a property condition assessment, supply the same brief you use to evaluate other proposals. A relevant provider still needs a clearly defined assignment.</p>
+<p>When engaging C and J Property Assessments for a property condition assessment, supply the same brief you use to evaluate other proposals. A relevant provider still needs a clearly defined assignment.</p>
 
 <h2>Is a commercial inspection the same as a PCA?</h2>
 <p>A commercial inspection and a PCA are not automatically the same assignment. Compare the written scope, applicable framework, document review, reporting requirements, and intended use rather than relying on the service label.</p>

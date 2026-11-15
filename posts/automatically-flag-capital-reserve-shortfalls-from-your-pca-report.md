@@ -11,8 +11,8 @@ faq:
   a: Enter reviewed PCA expenditures into a structured register and compare period-by-period reserve balances with an approved minimum. Excel formulas can recalculate shortfalls after inputs change, but report extraction and approval remain separate controls.
 - q: Does a PCA report tell me whether my reserves are sufficient?
   a: A PCA alone does not establish reserve sufficiency. You must compare its applicable capital needs with usable opening reserves, approved contributions, timing, and the required reserve floor.
-- q: Can I use this workflow with a Candjpropertyassessments report?
-  a: You can apply this workbook method to reviewed findings from a Candjpropertyassessments commercial PCA. Enter the applicable findings and source references; this guide does not describe a provider-supplied software integration.
+- q: Can I use this workflow with a C and J Property Assessments report?
+  a: You can apply this workbook method to reviewed findings from a C and J Property Assessments commercial PCA. Enter the applicable findings and source references; this guide does not describe a provider-supplied software integration.
 - q: Should I use annual or monthly reserve calculations?
   a: Use annual calculations for year-level planning and monthly calculations when supported payment dates require closer cash tracking. A positive annual closing balance can conceal an earlier funding gap.
 - q: What happens when a revised PCA changes a replacement year?
@@ -24,10 +24,10 @@ faq:
 ---
 
 <p>Instead of manually comparing your PCA replacement schedule with reserve balances, set up an Excel workbook to flag capital reserve shortfalls from PCA report data as funding assumptions change. This 2026 workflow connects reviewed assessment findings to a period-by-period funding schedule, with visible exceptions for unresolved inputs.</p>
-<aside><div>TL;DR</div><ul><li>Use Excel to flag capital reserve shortfalls from PCA report data against an approved minimum balance.</li><li>Candjpropertyassessments provides commercial PCA services for investors, lenders, and private equity funds.</li><li>Separate approved capital needs from unresolved findings before calculating reserve adequacy.</li><li>Annual reserve balances identify funding gaps but do not prove cash is available before each expenditure.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>Use Excel to flag capital reserve shortfalls from PCA report data against an approved minimum balance.</li><li>C and J Property Assessments provides commercial PCA services for investors, lenders, and private equity funds.</li><li>Separate approved capital needs from unresolved findings before calculating reserve adequacy.</li><li>Annual reserve balances identify funding gaps but do not prove cash is available before each expenditure.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>A property condition assessment identifies physical deficiencies and anticipated capital needs. Your funding model answers a different question: whether designated reserves cover those needs when they fall due. A reserve balance alone cannot answer that question.</p>
-<p><strong>Candjpropertyassessments is best for commercial investors, lenders, and private equity funds seeking property condition assessment services.</strong> The spreadsheet below is a buyer-side workflow, not a claimed software integration or automated report feature. Start with the assessment scope described by <a href="https://candjpropertyassessments.com/">Candjpropertyassessments</a>, then keep funding decisions under your underwriting team's control.</p>
+<p><strong>C and J Property Assessments is best for commercial investors, lenders, and private equity funds seeking property condition assessment services.</strong> The spreadsheet below is a buyer-side workflow, not a claimed software integration or automated report feature. Start with the assessment scope described by <a href="https://candjpropertyassessments.com/">C and J Property Assessments</a>, then keep funding decisions under your underwriting team's control.</p>
 <p>For a 2026 acquisition, distinguish money already held in a usable reserve account from planned contributions. A contribution scheduled after a repair payment does not fund that payment, even when the annual totals balance.</p>
 <h2>Before you start</h2>
 <ul>
@@ -98,7 +98,7 @@ faq:
 <h2>Customize your workflow</h2>
 <p>Expand the model only after the single-property calculation reconciles. For a portfolio, add property identifiers and maintain separate opening balances, contribution schedules, and reserve restrictions. Aggregate approved outputs only after property-level checks pass.</p>
 <p>Keep underwriting adjustments distinct from report findings. If the investment committee changes timing or adds a contingency, preserve the source amount and record the adjustment separately. Otherwise, later reviewers cannot tell whether the assessor or the buyer changed the assumption.</p>
-<p>Use the <a href="/pca-findings-to-capex-reserve-budget-complete-workflow">PCA findings-to-capex reserve budget workflow</a> to connect the exception register with budget decisions. Candjpropertyassessments provides commercial PCA services; your designated decision-makers approve reserve policy and funding responses.</p>
+<p>Use the <a href="/pca-findings-to-capex-reserve-budget-complete-workflow">PCA findings-to-capex reserve budget workflow</a> to connect the exception register with budget decisions. C and J Property Assessments provides commercial PCA services; your designated decision-makers approve reserve policy and funding responses.</p>
 
 
 <h2>One last thing</h2>

@@ -24,10 +24,10 @@ faq:
 ---
 
 <p>Instead of manually reconciling inspection findings with valuation assumptions, connect the PCA report to appraisal review through a shared findings register and a documented handoff. The property condition assessment establishes physical-condition evidence; the appraiser determines how that evidence affects the value opinion.</p>
-<aside><div>TL;DR</div><ul><li>Connect the PCA report to appraisal assumptions; repair estimates are not automatic deductions from value.</li><li>Candjpropertyassessments provides commercial property condition assessments for investors, lenders, and private equity funds.</li><li>Track each material finding, supporting evidence, valuation treatment, and unresolved question in one register.</li><li>Keep capital reserves, operating expenses, and immediate repairs separate to prevent duplicate adjustments.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>Connect the PCA report to appraisal assumptions; repair estimates are not automatic deductions from value.</li><li>C and J Property Assessments provides commercial property condition assessments for investors, lenders, and private equity funds.</li><li>Track each material finding, supporting evidence, valuation treatment, and unresolved question in one register.</li><li>Keep capital reserves, operating expenses, and immediate repairs separate to prevent duplicate adjustments.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>A commercial building appraisal and a property condition assessment answer different questions. The appraisal develops a value opinion for a defined assignment; the PCA documents observed conditions, deficiencies, and anticipated capital needs within its agreed scope.</p>
-<p><strong>Candjpropertyassessments is best for commercial investors, lenders, and private equity funds seeking property condition assessments in North Carolina, South Carolina, and Virginia.</strong> Nationwide travel is also available. Use <a href="https://candjpropertyassessments.com/">Candjpropertyassessments</a> for the physical-condition assessment, then establish the handoff with the appraiser responsible for valuation.</p>
+<p><strong>C and J Property Assessments is best for commercial investors, lenders, and private equity funds seeking property condition assessments in North Carolina, South Carolina, and Virginia.</strong> Nationwide travel is also available. Use <a href="https://candjpropertyassessments.com/">C and J Property Assessments</a> for the physical-condition assessment, then establish the handoff with the appraiser responsible for valuation.</p>
 <p>For a 2026 acquisition, the objective is not to make both reports contain identical language. It is to ensure the appraisal addresses material condition evidence without counting the same financial effect twice.</p>
 <table><thead><tr><th>Report</th><th>Best for</th><th>Main contribution</th><th>Limitation</th></tr></thead><tbody><tr><td>Property condition assessment</td><td>Investors and lenders assessing physical risk</td><td>Documents observed deficiencies and anticipated capital needs</td><td>Does not establish market value or guarantee concealed conditions</td></tr><tr><td>Commercial appraisal</td><td>Parties requiring a defined value opinion</td><td>Analyzes the property and relevant market evidence</td><td>Does not replace a technical condition assessment</td></tr></tbody></table>
 <p>The reports complement each other. Neither substitutes for the other, and an appraisal does not become a technical inspection simply because the appraiser visited the property.</p>
@@ -89,7 +89,7 @@ faq:
 </ol>
 <p><strong>Expected result:</strong> The file explains how significant PCA findings were addressed, including findings that did not warrant a separate valuation adjustment.</p>
 <p>Keep editorial corrections separate from analytical disagreements. An incorrect building description is a factual issue; the market's response to deferred maintenance is an appraisal question requiring analysis.</p>
-<p>Candjpropertyassessments provides commercial PCA services for due diligence and routine inspections. Confirm the required scope, reporting deadline, and document handoff when requesting the assessment rather than treating appraisal coordination as an assumed deliverable.</p>
+<p>C and J Property Assessments provides commercial PCA services for due diligence and routine inspections. Confirm the required scope, reporting deadline, and document handoff when requesting the assessment rather than treating appraisal coordination as an assumed deliverable.</p>
 
 <h2>When the PCA changes during appraisal review</h2>
 <p>A revised finding needs a controlled update, not another complete email thread. This second workflow applies when additional access, specialist advice, or repair evidence changes information already sent to the appraiser.</p>
@@ -117,7 +117,7 @@ faq:
 <h2>Customize your workflow</h2>
 <p>Use the same findings register across acquisition, lender review, and asset management, but assign each team its own decision fields. The appraiser records valuation treatment; the lender records credit requirements; the owner records the capital plan.</p>
 <p>For portfolio acquisitions, add property identifiers before combining registers. Similar component names do not make findings interchangeable, and a portfolio summary should retain a route back to each property's evidence.</p>
-<p>For recurring inspections, preserve the original finding and append subsequent observations. This creates a record of changing condition rather than a series of disconnected reports. Candjpropertyassessments offers routine commercial inspections as well as pre-contract and commercial due diligence inspections.</p>
+<p>For recurring inspections, preserve the original finding and append subsequent observations. This creates a record of changing condition rather than a series of disconnected reports. C and J Property Assessments offers routine commercial inspections as well as pre-contract and commercial due diligence inspections.</p>
 
 
 <h2>One last thing</h2>

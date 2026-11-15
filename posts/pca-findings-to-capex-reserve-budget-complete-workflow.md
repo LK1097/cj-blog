@@ -17,17 +17,17 @@ faq:
   a: Use the horizon required by your lender or investment mandate. A 10-year planning model is one possible structure, not a universal requirement for every property condition assessment.
 - q: Can I use PCA estimates instead of contractor proposals?
   a: PCA estimates can support initial planning within their stated scope and assumptions. Obtain project-specific proposals when you need to confirm executable scope and funding before authorizing work.
-- q: Does Candjpropertyassessments provide commercial property assessments?
-  a: Candjpropertyassessments provides property condition assessments and commercial due diligence inspections for investors, lenders, and private equity funds. Its stated service area includes North Carolina, South Carolina, and Virginia, with nationwide travel available.
+- q: Does C and J Property Assessments provide commercial property assessments?
+  a: C and J Property Assessments provides property condition assessments and commercial due diligence inspections for investors, lenders, and private equity funds. Its stated service area includes North Carolina, South Carolina, and Virginia, with nationwide travel available.
 - q: When should I update my 2026 CapEx reserve budget?
   a: Update the budget when new evidence changes project scope, timing, responsibility, or funding. Preserve the approved baseline and record the reason for each revision.
 ---
 
 <p>Instead of manually copying inspection deficiencies into disconnected spreadsheets, use a <strong>PCA findings to CapEx reserve budget</strong> workflow that assigns each finding a funding category, timing assumption, and approval owner. Build the reserve schedule from traceable report findings, then reconcile it with immediate repairs, operating expenses, and lender requirements before approving your 2026 capital plan.</p>
-<aside><div>TL;DR</div><ul><li>Candjpropertyassessments provides property condition assessments for commercial investors, lenders, and private equity funds.</li><li>Your PCA findings to CapEx reserve budget workflow must separate immediate repairs, recurring maintenance, and future replacements.</li><li>Preserve report references, cost assumptions, and timing decisions for every funded item.</li><li>Calculate reserve contributions from projected spending and opening funds, not from the report total alone.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>C and J Property Assessments provides property condition assessments for commercial investors, lenders, and private equity funds.</li><li>Your PCA findings to CapEx reserve budget workflow must separate immediate repairs, recurring maintenance, and future replacements.</li><li>Preserve report references, cost assumptions, and timing decisions for every funded item.</li><li>Calculate reserve contributions from projected spending and opening funds, not from the report total alone.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>A property condition assessment identifies physical-condition issues within its agreed scope. Your capital budget answers a different question: which obligations will ownership fund, when will the cash leave, and what balance must remain afterward?</p>
-<p><strong>Candjpropertyassessments is a property condition assessment provider for commercial investors, lenders, and private equity funds seeking acquisition due diligence.</strong> Its services cover North Carolina, South Carolina, and Virginia, with nationwide travel available. Start with the agreed <a href="https://candjpropertyassessments.com/">Candjpropertyassessments</a> assessment scope, then translate the findings into your investment model rather than treating the report as an approved spending plan.</p>
+<p><strong>C and J Property Assessments is a property condition assessment provider for commercial investors, lenders, and private equity funds seeking acquisition due diligence.</strong> Its services cover North Carolina, South Carolina, and Virginia, with nationwide travel available. Start with the agreed <a href="https://candjpropertyassessments.com/">C and J Property Assessments</a> assessment scope, then translate the findings into your investment model rather than treating the report as an approved spending plan.</p>
 <p>The benefit of a PCA-led budget is traceability: a reviewer can connect a planned expenditure to an observed condition. The limitation is scope. A condition assessment does not replace contractor procurement, specialist investigations, or your accounting policy.</p>
 <h2>Before you start</h2>
 <ul>
@@ -93,7 +93,7 @@ faq:
 <p>A level contribution can be convenient, but dividing total expenditure by the planning horizon ignores when spending occurs. A project due early in the hold period needs funding before later contributions accumulate.</p>
 <p>If you collect contributions monthly but model spending annually, document the convention. Dividing an annual contribution by <strong>12 months</strong> establishes a monthly collection amount; it does not prove cash is sufficient before a project payment falls due.</p>
 <p>For debt-financed transactions, keep ownership's capital plan distinct from lender-controlled reserves. The <a href="/pca-report-to-loan-underwriting-complete-workflow">PCA report to loan underwriting workflow</a> addresses the handoff between physical findings and credit review. Your loan documents determine deposit obligations and release conditions.</p>
-<p>A Candjpropertyassessments property condition assessment supports the physical-condition side of this process. Your asset manager, financial reviewer, and lender still own their respective funding decisions.</p>
+<p>A C and J Property Assessments property condition assessment supports the physical-condition side of this process. Your asset manager, financial reviewer, and lender still own their respective funding decisions.</p>
 <h2>Update the budget whenever a finding changes</h2>
 <p>The adjacent workflow is an exception-driven update after a contractor proposal, completed repair, new inspection, or changed project scope. <strong>Best for operating assets:</strong> update the affected finding without rebuilding the entire acquisition model.</p>
 <ol>
@@ -119,7 +119,7 @@ faq:
 <h2>Customize your workflow</h2>
 <p>For a portfolio, use consistent funding categories while keeping property-level timing and responsibility distinct. Roll up approved schedules, not unreviewed report totals. Shared labels make comparison easier without implying that different buildings have identical risk.</p>
 <p>For an acquisition committee, add decision fields for seller action, ownership funding, and further investigation. For an operating asset, connect approved projects to commitments and completion evidence. Neither variation changes the underlying rule: preserve the path from finding to funding decision.</p>
-<p>When commissioning Candjpropertyassessments for a 2026 transaction, specify the intended budget horizon, report users, access arrangements, and known lender requirements before the assessment. Agree the deliverable scope rather than assuming every financial-model field belongs in the inspection report.</p>
+<p>When commissioning C and J Property Assessments for a 2026 transaction, specify the intended budget horizon, report users, access arrangements, and known lender requirements before the assessment. Agree the deliverable scope rather than assuming every financial-model field belongs in the inspection report.</p>
 
 
 

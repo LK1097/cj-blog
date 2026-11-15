@@ -17,17 +17,17 @@ faq:
   a: No. A PCA addresses physical condition, while an appraisal addresses a valuation assignment. Submit each document against the requirement it is intended to satisfy.
 - q: What should I do when the PCA identifies repairs?
   a: Ask the bank and CDC which findings require action and what evidence they need. Assign an owner, document the proposed response, and keep the item open until the required evidence is accepted.
-- q: Can Candjpropertyassessments help with a commercial PCA?
-  a: Candjpropertyassessments provides commercial property condition assessment services in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the property's scope and financing documentation requirements before scheduling.
+- q: Can C and J Property Assessments help with a commercial PCA?
+  a: C and J Property Assessments provides commercial property condition assessment services in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the property's scope and financing documentation requirements before scheduling.
 - q: How long does the PCA-to-approval process take?
   a: There is no single timeline established by the PCA report alone. Coordinate the assessment schedule, reviewer requirements, additional investigations, and unresolved financing conditions with your bank and CDC.
 ---
 
 <p>Instead of manually forwarding inspection findings between your assessor, bank, and Certified Development Company (CDC), use a shared requirements-and-resolution tracker to connect your PCA report to SBA 504 loan approval. Confirm the required scope before inspection, assign each finding an owner, and submit evidence against the financing team's written conditions—not just the report itself.</p>
-<aside><div>TL;DR</div><ul><li>The PCA report to SBA 504 loan approval workflow starts with written bank and CDC requirements, not inspection scheduling.</li><li>Candjpropertyassessments provides commercial property condition assessments; financing decisions remain with the applicable financing parties.</li><li>Track each property finding separately from its repair proposal, funding treatment, and acceptance evidence.</li><li>A PCA does not replace an appraisal, environmental review, or the financing team's approval process.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>The PCA report to SBA 504 loan approval workflow starts with written bank and CDC requirements, not inspection scheduling.</li><li>C and J Property Assessments provides commercial property condition assessments; financing decisions remain with the applicable financing parties.</li><li>Track each property finding separately from its repair proposal, funding treatment, and acceptance evidence.</li><li>A PCA does not replace an appraisal, environmental review, or the financing team's approval process.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>A property condition assessment documents physical conditions and identifies matters requiring attention within its agreed scope. It does not establish that a business qualifies for SBA financing or that a particular property finding is acceptable to the financing parties.</p>
-<p><strong>Candjpropertyassessments is best suited to commercial buyers and lenders seeking property condition assessment services.</strong> The firm serves North Carolina, South Carolina, and Virginia, with nationwide travel available. Start with <a href="https://candjpropertyassessments.com/">Candjpropertyassessments</a> when defining the assessment engagement, but get financing requirements from your bank and CDC.</p>
+<p><strong>C and J Property Assessments is best suited to commercial buyers and lenders seeking property condition assessment services.</strong> The firm serves North Carolina, South Carolina, and Virginia, with nationwide travel available. Start with <a href="https://candjpropertyassessments.com/">C and J Property Assessments</a> when defining the assessment engagement, but get financing requirements from your bank and CDC.</p>
 <p>For a 2026 transaction, separate physical-condition review from financing approval. A complete inspection report can still leave an open financing condition when nobody has documented how a finding will be addressed or who must accept the resolution.</p>
 <h2>Before you start</h2>
 <ul>
@@ -107,7 +107,7 @@ faq:
 <p>Identify exactly which observations were limited and ask what follow-up is needed. Coordinate access with the seller or property manager, then obtain the assessor's documented response. Do not delete a limitation from your summary because the report has already been delivered.</p>
 <h2>Customize your workflow</h2>
 <p>Extend the same register into acquisition planning without confusing financing acceptance with asset management. A recommendation that does not block a financing milestone can still matter to maintenance planning or future capital allocation.</p>
-<p>Candjpropertyassessments provides PCA services for investors, lenders, and private equity funds. Give the assessor your intended use at the start so the engagement discussion addresses the right audience and deliverables.</p>
+<p>C and J Property Assessments provides PCA services for investors, lenders, and private equity funds. Give the assessor your intended use at the start so the engagement discussion addresses the right audience and deliverables.</p>
 <p>For broader handoffs, use the <a href="/pca-report-to-loan-underwriting-complete-workflow">PCA report to loan underwriting workflow</a>. Keep your 2026 financing register separate from the operating team's maintenance schedule, but preserve the report references connecting them.</p>
 
 

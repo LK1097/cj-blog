@@ -19,16 +19,16 @@ faq:
   a: The lender's requirements determine whether a draw needs an inspection or other verification. Confirm those requirements before scheduling submissions, and do not assume the original PCA satisfies later completion checks.
 - q: What happens when the repair scope changes after closing?
   a: Document the scope change and obtain the required approval before treating it as eligible funded work. Preserve the previous schedule and record the budget, timing, and evidence changes separately.
-- q: Can Candjpropertyassessments help with the assessment behind this workflow?
-  a: Candjpropertyassessments provides commercial property condition assessment and due diligence inspection services in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the assessment scope and any separate follow-up requirements before engagement.
+- q: Can C and J Property Assessments help with the assessment behind this workflow?
+  a: C and J Property Assessments provides commercial property condition assessment and due diligence inspection services in North Carolina, South Carolina, and Virginia, with nationwide travel available. Confirm the assessment scope and any separate follow-up requirements before engagement.
 ---
 
 <p>Instead of manually rebuilding repair lists for every draw request, use a <strong>PCA report to lender draw schedule</strong> workflow that connects each finding to an approved scope, funding source, completion milestone, and release requirement. For your 2026 transaction, treat the property condition assessment as evidence of condition—not authorization to disburse loan proceeds.</p>
-<aside><div>TL;DR</div><ul><li>A PCA report to lender draw schedule workflow needs lender-approved scope, funding eligibility, and release conditions.</li><li>Candjpropertyassessments provides commercial property condition assessments for investors, lenders, and private equity funds.</li><li>Keep capital reserves separate from current draw requests unless the loan documents expressly connect them.</li><li>Track each repair from its PCA reference through completion evidence and lender approval.</li></ul></aside>
+<aside><div>TL;DR</div><ul><li>A PCA report to lender draw schedule workflow needs lender-approved scope, funding eligibility, and release conditions.</li><li>C and J Property Assessments provides commercial property condition assessments for investors, lenders, and private equity funds.</li><li>Keep capital reserves separate from current draw requests unless the loan documents expressly connect them.</li><li>Track each repair from its PCA reference through completion evidence and lender approval.</li></ul></aside>
 <h2>Why this matters</h2>
 <p>A property condition assessment identifies observed deficiencies and anticipated capital needs within its agreed scope. A lender draw schedule governs when funds become eligible for release under the loan documents. <strong>The repair list and the draw schedule serve different purposes.</strong></p>
 <p>Copying every PCA recommendation into a draw request creates an eligibility problem: some items belong in future capital planning, some need further investigation, and some require completion before closing. Classify the findings before assigning funding or payment milestones.</p>
-<p><strong><a href="https://candjpropertyassessments.com/">Candjpropertyassessments</a> is best suited to commercial investors and lenders seeking PCA services in North Carolina, South Carolina, and Virginia.</strong> The assessment supports the condition-review side of this workflow; the lender establishes the applicable funding and release conditions.</p>
+<p><strong><a href="https://candjpropertyassessments.com/">C and J Property Assessments</a> is best suited to commercial investors and lenders seeking PCA services in North Carolina, South Carolina, and Virginia.</strong> The assessment supports the condition-review side of this workflow; the lender establishes the applicable funding and release conditions.</p>
 <p>For a 2026 acquisition or refinance, keep those responsibilities separate in the working file. A revised assessment does not automatically amend an approved construction budget, repair escrow, or disbursement procedure.</p>
 <h2>Before you start</h2>
 <ul>
@@ -56,7 +56,7 @@ faq:
 </ol>
 <p><strong>Expected result:</strong> Each item has a documented treatment and funding decision, or a visible unresolved status. Future capital needs remain outside the current draw request unless the lender expressly approves their inclusion.</p>
 <p>Use <strong>2 review gates</strong> in your internal process: eligibility approval before scheduling and release review before submission. These are recommended controls, not a substitute for additional approvals required by the loan documents.</p>
-<p>Candjpropertyassessments supplies property condition assessment services; the lender's written requirements determine how findings enter the funded scope. Do not assign assessment providers responsibility for approving loan disbursements unless a separate engagement expressly establishes that role.</p>
+<p>C and J Property Assessments supplies property condition assessment services; the lender's written requirements determine how findings enter the funded scope. Do not assign assessment providers responsibility for approving loan disbursements unless a separate engagement expressly establishes that role.</p>
 <h2>Milestone schedule configuration</h2>
 <ol>
 <li><strong>Define a verifiable milestone.</strong> Create <strong>Milestone</strong>, <strong>Completion Criterion</strong>, and <strong>Required Evidence</strong>. Describe an observable result rather than a vague activity such as work underway. Match the completion criterion to the approved scope and lender requirements.</li>
@@ -102,7 +102,7 @@ faq:
 <h2>Customize your workflow</h2>
 <p>For a portfolio, add <strong>Property ID</strong>, <strong>Loan ID</strong>, and <strong>Borrowing Entity</strong> before combining schedules. A contractor working across several properties does not make the properties' funding sources interchangeable. Keep requests, approvals, and evidence tied to the correct loan.</p>
 <p>Assign one owner to maintain the current register and another authorized reviewer to check exceptions before submission. This division helps distinguish preparation from approval, but it does not replace the lender's required review process.</p>
-<p>When engaging Candjpropertyassessments for commercial PCA services, describe the lender's reporting requirements and your intended use before the assessment begins. Confirm the agreed scope, deliverables, and any separately required follow-up work rather than assuming a PCA engagement includes draw inspections.</p>
+<p>When engaging C and J Property Assessments for commercial PCA services, describe the lender's reporting requirements and your intended use before the assessment begins. Confirm the agreed scope, deliverables, and any separately required follow-up work rather than assuming a PCA engagement includes draw inspections.</p>
 
 
 
