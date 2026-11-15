@@ -54,12 +54,17 @@ def main(backup_path, images_path):
             h1.decompose()
         for div in soup.find_all("div", recursive=False):
             text = div.get_text(" ", strip=True)
-            if div.find("a", string=re.compile("quote", re.I)) and len(text) < 400:
+            if div.find("a") and len(text) < 400 and not text.upper().startswith("TL;DR"):
                 div.decompose()
             elif faq and any(f["q"][:40] in text for f in faq[:2]):
                 div.decompose()
             elif text.upper().startswith("TL;DR"):
                 div.name = "aside"
+        # Headings left empty after removing the FAQ widget
+        for h in soup.find_all(["h2", "h3"]):
+            nxt = h.find_next_sibling()
+            if re.search(r"\b(faq|frequently asked)", h.get_text(), re.I) and (nxt is None or nxt.name in ("h2", "h3")):
+                h.decompose()
         # Trailing "FAQ" heading left without content
         last = [c for c in soup.contents if getattr(c, "name", None)]
         if last and last[-1].name in ("h2", "h3") and "question" in last[-1].get_text().lower():

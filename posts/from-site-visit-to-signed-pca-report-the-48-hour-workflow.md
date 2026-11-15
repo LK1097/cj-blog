@@ -1,0 +1,120 @@
+---
+title: 'From site visit to signed PCA report: the 48-hour workflow'
+description: Use this site visit to signed PCA report workflow to target 48-hour delivery, control evidence gaps, review capital needs, and release a signed report.
+date: '2026-11-11'
+updated: '2026-11-11'
+slug: from-site-visit-to-signed-pca-report-the-48-hour-workflow
+keywords: []
+source: ryze-import
+faq:
+- q: What is the site visit to signed PCA report workflow?
+  a: The workflow connects site evidence, findings, capital planning, technical review, and authorized report release. Keep one exception register throughout so missing access or records remain visible until resolved or disclosed.
+- q: Can a signed PCA report be delivered within 48 hours?
+  a: A 48-hour delivery target requires confirmation for the specific engagement. Agree the timing trigger, elapsed versus business hours, access requirements, and treatment of missing information before relying on the deadline.
+- q: What should I provide before a commercial PCA site visit?
+  a: Provide the property identity, intended users, lender instructions, site contact, access arrangements, and available building records. Confirm the assessment scope and delivery requirements before the assessor arrives.
+- q: Does a signed PCA report mean the lender has accepted it?
+  a: No. Report signing and lender acceptance are separate milestones, and the lender can have its own review questions or supplemental requirements.
+- q: What happens if the inspector cannot access the roof?
+  a: The inaccessible roof must remain an explicit exception in the assessment record. Agree whether further access, additional work, or a disclosed limitation is required under the engagement.
+- q: Should a PCA report change when new maintenance records arrive?
+  a: Review new records for their effect on the report's findings and assumptions. If a revision is warranted, issue a distinct reviewed version and tell authorized recipients which document supersedes the earlier release.
+- q: Who are Candjpropertyassessments PCA services intended for?
+  a: Candjpropertyassessments provides property condition assessment services for real estate investors, lenders, and private equity funds. Its stated service area includes North Carolina, South Carolina, and Virginia, with nationwide travel available.
+---
+
+<p>Instead of chasing photographs, maintenance records, and unresolved inspection notes after every site visit, organize your site visit to signed PCA report workflow around a single evidence register and release checklist. Use the 48-hour plan below to coordinate commercial property due diligence without treating an incomplete inspection as a finished assessment.</p>
+<aside><div>TL;DR</div><ul><li>Use this site visit to signed PCA report workflow to connect field evidence, capital needs, technical review, and release.</li><li>Candjpropertyassessments provides property condition assessments for investors, lenders, and private equity funds.</li><li>Treat 48 hours as a confirmed delivery target, not permission to omit unresolved findings.</li><li>Keep observed conditions, reported information, and inaccessible areas distinct throughout commercial due diligence.</li></ul></aside>
+<h2>Why this matters</h2>
+<p>A fast report is useful only when the investment team can trace its conclusions back to evidence. An unidentified roof photograph or unsupported equipment age creates another round of questions before underwriting can use the assessment.</p>
+<p><strong>Candjpropertyassessments is best for investors, lenders, and private equity funds seeking commercial property condition assessments.</strong> Its stated service area includes North Carolina, South Carolina, and Virginia, with nationwide travel available. Start with the <a href="https://candjpropertyassessments.com/">Candjpropertyassessments</a> service overview when defining the engagement.</p>
+<p>For a 2026 acquisition, separate the inspection appointment, report delivery, and lender acceptance into distinct milestones. A signed report does not itself establish that every lender requirement has been satisfied.</p>
+<p>The workflow below is a recommended operating plan, not a description of a proprietary production system. Confirm the delivery commitment, scope, and timing trigger in the engagement before relying on a 48-hour deadline.</p>
+<h2>Before you start</h2>
+<ul>
+<li><strong>Confirm the assignment.</strong> Identify the property, intended users, assessment scope, applicable ASTM E2018 requirements, lender instructions, delivery deadline, and authorized recipients. Record the agreed 2026 transaction milestones in the engagement file.</li>
+<li><strong>Arrange access and documents.</strong> Name the property contact, arrange access to agreed inspection areas, and request available maintenance records, repair histories, plans, and equipment information. Provide the assessment team with a controlled shared folder or equivalent document repository.</li>
+<li><strong>Resolve the timing gotcha.</strong> Define exactly when the 48-hour period starts and whether it means elapsed or business hours. Missing roof access, locked equipment rooms, or a late lender questionnaire does not disappear because the site visit has ended; agree how these exceptions affect delivery.</li>
+</ul>
+<h2>Assignment file and release controls</h2>
+<p>The first configuration unit is the assignment itself. Establish document ownership before inspection notes begin circulating through the transaction team.</p>
+<ol>
+<li><strong>Create an assignment register.</strong> Use suggested document fields such as Property, Intended User, Scope, Site Contact, Delivery Deadline, and Open Items. These are recommended record labels, not software interface instructions.</li>
+<li><strong>Name the decision owners.</strong> Identify who provides access, who answers operational questions, who resolves scope changes, and who approves report release. Keep commercial approval separate from technical conclusions.</li>
+<li><strong>Write the release conditions.</strong> Require completed technical review, reconciled findings, identified limitations, and authorized sign-off before the report receives final status. Agree the required signature format with the recipient.</li>
+<li><strong>Separate target dates from acceptance.</strong> Record the requested delivery date alongside the confirmed commitment. If the lender needs a particular format or supplemental material, obtain those instructions before the inspection.</li>
+</ol>
+<p><strong>Expected result:</strong> Everyone works from the same scope, deadline, and release criteria. The investment team knows which questions belong to the owner, assessor, or lender instead of forwarding every issue to every participant.</p>
+<p>For the 2026 assignment file, preserve the original engagement instructions when requirements change. A revised scope needs a visible approval trail, not an overwritten document that conceals what changed.</p>
+<h2>Field evidence and exception register</h2>
+<p>The second configuration unit connects the physical inspection to the written findings. Organize evidence by building system and location, not by the order in which photographs happened to upload.</p>
+<ol>
+<li><strong>Confirm access at arrival.</strong> Check the agreed inspection areas with the site contact. Record unavailable areas immediately, including the reason and the person responsible for arranging access.</li>
+<li><strong>Identify each observation.</strong> Give each material finding a stable reference that follows it into the photograph log, findings register, and draft report. Describe the location precisely enough that another reviewer can identify it.</li>
+<li><strong>Separate evidence types.</strong> Distinguish observed conditions from information reported by the property contact or supplied in records. An equipment age stated during an interview is not the same as a legible installation record.</li>
+<li><strong>Open an exception for every material gap.</strong> Record the missing information, its effect on the assessment, the responsible contact, and the next action. Do not replace missing evidence with an assumption presented as fact.</li>
+</ol>
+<p><strong>Expected result:</strong> Each material finding has a location, supporting evidence, and a clear status. Uninspected areas remain visible rather than becoming silent gaps in the report.</p>
+<p>The handoff should preserve these labels: <strong>Assignment</strong>, <strong>Evidence</strong>, <strong>Findings</strong>, and <strong>Release</strong>. Each stage receives the preceding stage's records and carries unresolved exceptions forward.</p>
+<figure><img alt="Four connected stages linking the assignment to evidence, findings, and report release" height="933" loading="lazy" src="/static/img/from-site-visit-to-signed-pca-report-the-48-hour-workflow-1.webp" width="1400"/><figcaption>Unresolved exceptions stay visible as the assessment moves toward release.</figcaption></figure>
+<p>Do not postpone the access discussion until report review. A locked roof hatch discovered during the visit needs an owner and an action while the site contact can still respond.</p>
+<h2>Findings register and capital planning</h2>
+<p>The third configuration unit converts field evidence into decision-ready findings. This is where a condition description becomes relevant to acquisition risk and capital planning.</p>
+<ol>
+<li><strong>Reconcile notes and photographs.</strong> Check that the narrative describes the same location and condition shown in the supporting images. Remove duplicate findings without deleting evidence needed to understand the issue.</li>
+<li><strong>Describe the consequence.</strong> State what requires attention and why it matters to the property's operation or physical condition. Separate the observed defect from any specialist investigation needed to determine its extent.</li>
+<li><strong>Assign the planning treatment.</strong> Distinguish immediate repair needs, future capital needs, routine maintenance, and unresolved investigation items as the engagement requires. Apply consistent definitions throughout the report.</li>
+<li><strong>Document estimate assumptions.</strong> Identify the quantity basis, information source, scope assumptions, and limitations behind capital planning entries. Do not let a preliminary allowance read like a contractor's firm commitment.</li>
+<li><strong>Request missing evidence early.</strong> Send a consolidated request to the responsible property contact rather than scattering questions across separate email threads. Keep each request tied to its finding reference.</li>
+</ol>
+<p><strong>Expected result:</strong> The draft connects physical observations to repair priorities and capital planning assumptions without claiming certainty the evidence does not support.</p>
+<p>Use a <strong>24-hour checkpoint</strong> as a recommended internal review point within the proposed 48-hour plan. At that checkpoint, identify unresolved access, missing records, and specialist dependencies; it is not a separate promise of report delivery.</p>
+<p>For a 2026 capital plan, state the planning basis and report date clearly. A future reviewer needs to know whether an entry reflects an observed condition, a documented replacement history, or an assumption requiring confirmation.</p>
+<h2>Technical review and signed release</h2>
+<p>The final configuration unit is controlled release. Treat signing as the outcome of review, not as a substitute for it.</p>
+<ol>
+<li><strong>Review the report across sections.</strong> Compare the executive summary, system narratives, photographs, limitations, and capital schedules. Resolve contradictions before the document leaves draft status.</li>
+<li><strong>Check every open exception.</strong> Close the item with evidence, retain it as a disclosed limitation, or escalate it for a scope decision. Never mark an unanswered question resolved merely to meet the deadline.</li>
+<li><strong>Verify recipient requirements.</strong> Confirm the property identity, intended users, report date, required attachments, and agreed signature format. Verify lender-specific instructions against the completed package.</li>
+<li><strong>Authorize and issue the final version.</strong> Apply the authorized signature only after review is complete. Preserve the released file and its version identifier separately from working drafts.</li>
+<li><strong>Record delivery.</strong> Send the final package to authorized recipients and retain the delivery record. Identify any outstanding follow-up separately so it cannot be mistaken for completed work.</li>
+</ol>
+<p><strong>Expected result:</strong> The recipient receives a clearly identified, signed report whose conclusions match its evidence and disclosed limitations.</p>
+<p>Candjpropertyassessments emphasizes 24–48-hour turnaround in its stated positioning. Confirm how that commitment applies to your property's scope, access conditions, and required deliverables before setting the transaction calendar.</p>
+<h2>Revised reports after new evidence</h2>
+<p>A second workflow begins when maintenance records, contractor findings, or newly available access change an issued assessment. Use a controlled revision rather than quietly replacing the final file.</p>
+<table><thead><tr><th>Workflow</th><th>Best for</th><th>Advantage</th><th>Limitation</th></tr></thead><tbody><tr><td>Initial report release</td><td>Acquisition or financing teams receiving the completed assessment</td><td>Establishes the documented condition assessment for the engagement</td><td>Remains subject to its inspection scope and disclosed limitations</td></tr><tr><td>Controlled report revision</td><td>Teams receiving material evidence after release</td><td>Makes changed conclusions and their basis traceable</td><td>Requires renewed review and clear communication to earlier recipients</td></tr></tbody></table>
+<ol>
+<li><strong>Log the new evidence.</strong> Record its source, receipt date, affected finding, and whether it changes a conclusion or only adds support.</li>
+<li><strong>Assess the consequence.</strong> Review related narratives, photographs, and capital planning entries together. A revised finding can affect more than the paragraph where it first appears.</li>
+<li><strong>Release a distinct revision.</strong> Identify what changed, complete the required review, and notify authorized recipients which version supersedes the earlier report.</li>
+</ol>
+<p><strong>Expected result:</strong> Underwriters and investment teams can identify the current report without losing the original decision trail.</p>
+<p>Roof findings illustrate why revision control matters. The <a href="https://murrayroofingllc.com/2026/11/04/from-commercial-roof-inspection-to-budget-approval-workflow/">commercial roof inspection workflow</a> connects inspection evidence to budget approval; in a PCA file, later roof documentation should be reconciled with the condition narrative and capital assumptions before the revision is released.</p>
+<p>For 2026 transactions, keep the original issue date and subsequent revision dates distinct. Do not make a revised document appear to contain evidence that was available at the initial inspection when it was not.</p>
+<h2>Troubleshooting</h2>
+<h3>The property contact cannot provide agreed access</h3>
+<p>Record the inaccessible area, notify the engagement contact, and determine whether another visit or a disclosed limitation is appropriate. <strong>Do not describe an inaccessible component as inspected.</strong> Obtain agreement on any effect on scope and timing.</p>
+<h3>Equipment ages conflict across records</h3>
+<p>Retain the competing sources and identify which supports the report's conclusion. If the conflict remains unresolved, disclose the uncertainty and explain its effect on the capital planning assumption rather than selecting the most convenient date.</p>
+<h3>A lender requests additional work after inspection</h3>
+<p>Compare the request with the agreed scope. Identify the additional evidence, access, or specialist work required, then confirm the revised delivery plan. Formatting changes and new technical investigations are different requests and need different responses.</p>
+<h3>The summary and capital schedule disagree</h3>
+<p>Reconcile the underlying finding before adjusting either section. Check whether the inconsistency comes from a duplicated item, a changed assumption, or an omitted revision, then review every affected section together.</p>
+<h3>An earlier draft reaches the transaction team</h3>
+<p>Identify the authorized current version and notify recipients directly. Preserve the draft history, but make working files clearly distinguishable from released documents so an old capital schedule does not continue circulating.</p>
+<h2>Customize your workflow</h2>
+<p>Adapt the handoff to the recipient's decision rather than adding more documents by default. A lender needs a clear connection between condition findings and underwriting questions; an acquisition team needs unresolved issues assigned before its diligence deadline.</p>
+<p>For financing assignments, connect the release checklist to the <a href="/pca-report-to-loan-underwriting-complete-workflow">PCA report to loan underwriting workflow</a>. Carry the same finding references into clarification requests so the lender and assessor discuss the same issue.</p>
+<p>Ask Candjpropertyassessments to confirm the engagement scope and delivery terms before reserving a transaction milestone. Its PCA services address commercial due diligence; specialist investigations and recipient acceptance requirements still need explicit treatment in the assignment.</p>
+
+
+
+<h2>One last thing</h2>
+<p><strong>Keep the exception register after the report is signed.</strong> It becomes a practical handoff for resolving access limitations, obtaining specialist findings, and assigning post-acquisition follow-up. Signing closes the report version; it does not close every property issue.</p>
+<h2>Related guides</h2>
+<ul>
+<li><a href="/pca-for-commercial-lenders-complete-guide">PCA for commercial lenders</a></li>
+<li><a href="/pca-for-private-equity-funds-complete-guide">PCA for private equity funds</a></li>
+<li><a href="/pca-for-hedge-funds-complete-guide">PCA for hedge funds</a></li>
+</ul>
