@@ -12,6 +12,7 @@ import markdown, yaml
 SITE = "https://blog.candjpropertyassessments.com"
 MAIN = "https://candjpropertyassessments.com"
 NAME = "C and J Property Assessments"
+GA4_ID = "G-CKNRF7D6RJ"  # same GA4 property as the main site
 ROOT = pathlib.Path(__file__).parent
 POSTS, STATIC, DIST = ROOT / "posts", ROOT / "static", ROOT / "dist"
 
@@ -43,7 +44,9 @@ def page(title, desc, canonical, body, jsonld=(), og_type="website", image=None)
 <link rel="canonical" href="{esc(canonical)}">
 <meta property="og:type" content="{og_type}"><meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(canonical)}">{img}
-<link rel="icon" href="/static/favicon.png"><style>{CSS}</style>{ld}</head><body>
+<link rel="icon" href="/static/favicon.png"><style>{CSS}</style>{ld}
+<script async src="https://www.googletagmanager.com/gtag/js?id={GA4_ID}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag("js",new Date());gtag("config","{GA4_ID}");</script></head><body>
 <header><div class="wrap bar"><a class="brand" href="/">{NAME} &middot; Blog</a>
 <a class="cta" href="{MAIN}">Request a quote</a></div></header>
 <main class="wrap">{body}</main>
