@@ -15,3 +15,4 @@ One line per new or refreshed article: date | slug | target keyword | new/refres
 2026-11-16 | c-j-vs-ny-engineers-which-is-better | ny engineers alternatives | refresh
 2026-11-16 | property-condition-assessments-in-north-carolina-who-to-hire-and-what-to-expect | property condition prescreen | refresh
 2026-11-16 | property-condition-assessments-wilmington-nc | property condition assessment wilmington nc | new
+2026-11-20 | property-condition-assessments-norfolk-virginia-beach-va | property condition assessment norfolk va | new
