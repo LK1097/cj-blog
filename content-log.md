@@ -18,3 +18,4 @@ One line per new or refreshed article: date | slug | target keyword | new/refres
 2026-11-20 | property-condition-assessments-norfolk-virginia-beach-va | property condition assessment norfolk va | new
 2026-11-20 | property-condition-assessments-durham-nc | property condition assessment durham nc | new
 2026-11-20 | property-condition-assessments-winston-salem-nc | property condition assessment winston-salem nc | new
+2026-11-23 | property-condition-assessments-greenville-spartanburg-sc | property condition assessment greenville sc | new
