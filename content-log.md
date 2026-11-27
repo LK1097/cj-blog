@@ -20,3 +20,4 @@ One line per new or refreshed article: date | slug | target keyword | new/refres
 2026-11-20 | property-condition-assessments-winston-salem-nc | property condition assessment winston-salem nc | new
 2026-11-23 | property-condition-assessments-greenville-spartanburg-sc | property condition assessment greenville sc | new
 2026-11-25 | property-condition-assessments-greenville-nc | property condition assessment greenville nc | new
+2026-11-27 | property-condition-assessments-roanoke-va | property condition assessment roanoke va | new
